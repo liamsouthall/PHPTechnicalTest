@@ -1,0 +1,15 @@
+{
+    "name": "businesscomparison/php-boilerplate-dev",
+    "description": "Technical test boilerplate for BusinessComparison",
+    "authors": [
+        {
+            "name": "Gavin Thomas",
+            "email": "gavin.thomas@businesscomparison.com"
+        },
+        {
+            "name": "Max Solomon",
+            "email": "max.solomon@businesscomparison.com"
+        }
+    ],
+    "require": {}
+}
